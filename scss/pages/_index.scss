@@ -1,0 +1,21 @@
+.portada-index {
+    height: 91vh;
+    background-image: url(../img/porshe2.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding: 100px;
+}
+  
+.texto-portada {
+    background-color: rgba(85, 79, 79, 0.414);
+    justify-content: end;
+    padding: 16px;
+    border-radius: 10px;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+
